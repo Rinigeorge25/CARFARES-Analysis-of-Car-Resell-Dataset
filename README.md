@@ -81,9 +81,6 @@ Based on the analysis, the following strategies are proposed:
 
 ## 🧩 Files Included
 - `Carfares_Analysis.pbix` – Power BI report file  
-- `Dashboard_Screenshots/` – Visuals from Power BI dashboards  
-- `Data_Sample.csv` – Cleaned sample dataset  
-- `Carfares_Presentation.pptx` – Final presentation summarizing project insights  
 
 ---
 
